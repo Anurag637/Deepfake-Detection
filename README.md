@@ -86,14 +86,12 @@ Hardware Support: GPU (CUDA) recommended for training
 🧪 Installation
 1. Clone the repository
 bash
-Copy
-Edit
+
 git clone https://github.com/Anurag637/Deepfake-Detection.git
 cd Deepfake-Detection
 2. Set up the environment
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 (Optional: Use virtualenv or conda)
 
