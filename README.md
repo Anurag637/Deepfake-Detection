@@ -152,9 +152,7 @@ For an image:
 bash
 python src/detect.py --input ./samples/test.jpg
 For a video:
-bash
-Copy
-Edit
+
 python src/video_detect.py --input ./samples/test_video.mp4
 Real-time (Webcam):
 
